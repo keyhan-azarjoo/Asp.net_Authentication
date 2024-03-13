@@ -1,8 +1,4 @@
-### Asp.net_Authentication
-
-
-
-## Authentication in Web Applications:
+# Authentication in Web Applications:
 
 # A .NET Perspective
 Authentication is fundamental in web applications, akin to providing identification before accessing secured areas. This README offers insights into authentication mechanisms and how they're implemented in a .NET environment.
